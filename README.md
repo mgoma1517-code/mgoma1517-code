@@ -1,4 +1,3 @@
-
 <html>
 <head>
 <title>Digital Twin - Vehicle Testing</title>
